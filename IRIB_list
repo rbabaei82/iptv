@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1,Shabake3
+#EXTINF:-1, Shabake3
 https://sdw.telewebion.com/live/tv3/tv3-720p/index.m3u8?uid=7015-1634330394.394-2.205.131.136-467?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgODozOTo1MiBQTSZoYXNoX3ZhbHVlPU14VUhWd0ZnaXhwcTdXb0hIcTdVT2c9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:-1,Shabake1
+#EXTINF:-1, Shabake1
 https://sdw.telewebion.com/live/tv1/tv1_dvr-240p/index.m3u8?uid=5849-1634330966.287-2.205.131.136-521?wmsAuthSign=a7061525957c7d0be92ed30425831506&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgODo0NjozNiBQTSZoYXNoX3ZhbHVlPXhGREo2WVdLYTJTSy9rYXVRWmhmSFE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:-1,Shabake2
+#EXTINF:-1, Shabake2
 https://sdw.telewebion.com/live/tv2/tv2_dvr-240p/index.m3u8?uid=5849-1634331050.992-2.205.131.136-182?wmsAuthSign=703e9d140926b71e1ce62c952f794cb0&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgODo1MDo1MCBQTSZoYXNoX3ZhbHVlPVhabmFSOEFjOGFqRmZ3U3M5aVpFL1E9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:-1,Shabake4
+#EXTINF:-1, Shabake4
 https://sdw.telewebion.com/live/tv4/tv4_dvr-240p/index.m3u8?uid=5849-1634331743.859-2.205.131.136-184?wmsAuthSign=c6b16386c0f50f49a2f468766729b5d3&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgODo1ODo1OCBQTSZoYXNoX3ZhbHVlPW1BNDBHQ2xZbUpmcjZYVXB3MFk3ZGc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:-1,Shabake5
+#EXTINF:-1, Shabake5
 https://sdw.telewebion.com/live/tehran/tehran_dvr-576p/index.m3u8?uid=5849-1634331849.598-2.205.131.136-184?wmsAuthSign=58a8a544d1ed311e03111c2fec1fbe41&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgODo1OTo1NCBQTSZoYXNoX3ZhbHVlPW1UUUorUWVtOEkxMGdMYTZxM2pBTlE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:-1,Shabake_pooya
+#EXTINF:-1, Shabake_pooya
 https://sdw.telewebion.com/live/pooya/pooya_dvr-240p/index.m3u8?uid=5849-1634331933.184-2.205.131.136-178?wmsAuthSign=6110dc5178f0ef4e3143ef66a8d18c14&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgOTo1OjMyIFBNJmhhc2hfdmFsdWU9dCtCcG8zNUdTenphcTRMblpvYU1tUT09JnZhbGlkbWludXRlcz02MDAw
-#EXTINF:-1,Shabake_varzesh
+#EXTINF:-1, Shabake_varzesh
 https://live.farsiland.com/varzesh-1k/varzesh-1k.m3u8
-#EXTINF:-1,Shabake_3
+#EXTINF:-1, Shabake_3
 https://live.farsiland.com/tv3-1k/tv3-1k.m3u8
-#EXTINF:-1,Shabake_nasim
+#EXTINF:-1, Shabake_nasim
 https://sdm.telewebion.com/live/nasim/nasim_dvr-720p/index.m3u8?uid=9779-1634332944.105-2.205.131.136-39
-#EXTINF:-1,Shabake_iFilm
+#EXTINF:-1, Shabake_iFilm
 https://sdm.telewebion.com/live/ifilm/ifilm_dvr-720p/index.m3u8?uid=9779-1634333025.698-2.205.131.136-40
