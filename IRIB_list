@@ -21,55 +21,5 @@ https://sdm.telewebion.com/live/nasim/nasim_dvr-720p/index.m3u8?uid=9779-1634332
 https://sdm.telewebion.com/live/ifilm/ifilm_dvr-720p/index.m3u8?uid=9779-1634333025.698-2.205.131.136-40
 #EXTINF:-1, Shabake_khabar
 https://s-cloud.irib.ir/securelive3/irinn/720.m3u8?s=Ro2vNpbK1c6MJejANWuGjQ&t=1634343271
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="Kids",Hodhod
-http://51.158.184.234/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
-https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
-https://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Movies",iFILM Persian 1
-https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/SMToXWd.png" group-title="Movies",iFILM Persian 2
-https://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/MbZtaDO.png" group-title="Education",IRIB Amoozesh
-https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IRIB Nasim IR" tvg-name="IRIB Nasim IR" tvg-language="English" tvg-logo="https://i.imgur.com/vJN95kP.png" group-title="Entertainment",IRIB NASIM
-https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/hH9xk9K.png" group-title="General",IRIB TV1
-https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gEkSbEi.png" group-title="General",IRIB TV2
-https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/xAdm6cB.png" group-title="General",IRIB TV3
-https://livetv.persianleague.com/live/tv3/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB TV4 IR" tvg-name="IRIB TV4 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/pTJEpeJ.png" group-title="General",IRIB TV4
-https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IRIB TV5 IR" tvg-name="IRIB TV5 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/qQBqGGf.png" group-title="General",IRIB TV5
-https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="Sport",IRIB Varzesh
-https://livetv.persianleague.com/live/varzesh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 1
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 2
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 3
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 4
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 5
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 6
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot6/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mashhad_Metro_logo.png" group-title="Religious",Mashhad Live 1 (Azadi)
-https://tv.razavi.ir/hls/azadi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mashhad_Metro_logo.png" group-title="Religious",Mashhad Live 2 (Enghelab)
-https://tv.razavi.ir/hls/enghelab.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/dSYJdEJ.png" group-title="Sport",Varzesh TV
-http://51.158.66.44/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/a9QcLWY.png" group-title="Sport",Varzesh TV 2
-http://51.158.176.190/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/mnAodqf.png" group-title="Sport",Varzesh TV 3
-http://51.15.236.137/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/f1e6M2L.png" group-title="Sport",Varzesh TV 4
-http://163.172.138.186/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="News",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
