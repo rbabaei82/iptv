@@ -1,23 +1,25 @@
 #EXTM3U
 #EXTINF:-1, Shabake1
-https://glwizhstb59.glwiz.com/IRIBChannel1_HD/IRIBChannel1_High.m3u8?user=sgls76551&session=9b8e7cedd4b325bc1db72cef76b77fc89e97958f76676a0a758272c3a7091ba686f59fc7bb03077a2954b840755761c2&hlsid=HTTP_ID_262517&group_id=76551&starttime=20211015T163511.055569#EXTINF:-1, Shabake2
+https://sdw.telewebion.com/live/tv1/tv1-240p/index.m3u8?uid=73735-1634849977.021-2.205.127.38-34
 #EXTINF:-1, Shabake2
-https://glwizhstb47.glwiz.com/IRIBChannel2_HD/IRIBChannel2_High.m3u8?user=sgls76551&session=0b0a12c0256a4be83ea9971fefdda437fe1d6e82d17e1cfb758272c3a7091ba686f59fc7bb03077a2954b840755761c2&hlsid=HTTP_ID_785&group_id=76551&starttime=20211020T052657.541042#EXTINF:-1, Shabake4
+https://sdw.telewebion.com/live/tv2/tv2-240p/index.m3u8?uid=73735-1634850101.813-2.205.127.38-34
 #EXTINF:-1, Shabake3
 https://live.farsiland.com/tv3-1k/tv3-1k.m3u8
 #EXTINF:-1, Shabake4
-https://glwizhstb39.glwiz.com/IRIBChannel4_HD/IRIBChannel4_High.m3u8?user=sgls76551&session=f884bd70babef16d5a752b03a96ff6a456dc6d47571fbc16758272c3a7091ba686f59fc7bb03077a2954b840755761c2&hlsid=HTTP_ID_16&group_id=76551&starttime=20211021T192513.103355
+https://sdw.telewebion.com/live/tv4/tv4-240p/index.m3u8?uid=73735-1634850146.707-2.205.127.38-34
 #EXTINF:-1, Shabake5
-https://glwizhstb59.glwiz.com/IRIBChannel5_HD/IRIBChannel5_High.m3u8?user=sgls76551&session=318185adec976ffd5643d455ad0f30c22c03dee122630dc7758272c3a7091ba686f59fc7bb03077a2954b840755761c2&hlsid=HTTP_ID_262517&group_id=76551&starttime=20211015T163511.089580#EXTINF:-1, Shabake_pooya
+https://sdw.telewebion.com/live/tehran/tehran-240p/index.m3u8?uid=73735-1634850174.032-2.205.127.38-36
 #EXTINF:-1, Shabake_khabar
-https://glwizhstb52.glwiz.com/IRINN_HD/IRINN_High.m3u8?user=sgls76551&session=325290bc00d8126c2845fefebc6410c5321b076f65dce2c72d6e33d15071d257b57224c84339d013&hlsid=HTTP_ID_454251&group_id=76551&starttime=20211008T180701.893302#EXTINF:-1, Shabake_Ghoran
+https://sdw.telewebion.com/live/irinn/irinn-240p/index.m3u8?uid=73735-1634850201.182-2.205.127.38-35
 #EXTINF:-1, Shabake_Ghoran
-https://glwizhstb39.glwiz.com/IRIBQuran_HD/IRIBQuran_High.m3u8?user=sgls76551&session=149ea5847d552ac4b1eb0a280dff2f0eae6b86998d88b976c4d322141ad947a3c0da100fa126c465&hlsid=HTTP_ID_16&group_id=76551&starttime=20211021T192513.071345
+https://sdw.telewebion.com/live/quran/quran-240p/index.m3u8?uid=73735-1634850306.292-2.205.127.38-36
 #EXTINF:-1, Shabake_varzesh
 https://live.farsiland.com/varzesh-1k/varzesh-1k.m3u8
 #EXTINF:-1, Shabake_nasim
-https://glwizhstb40.glwiz.com/IRIBNasim_HD/IRIBNasim_High.m3u8?user=sgls76551&session=aa3ea65a3b2378a8fb0150471923b7c229607636c5998f82c4d322141ad947a3c0da100fa126c465&hlsid=HTTP_ID_31&group_id=76551&starttime=20211021T081722.806659#EXTINF:-1, Shabake_iFilm
+https://sdw.telewebion.com/live/nasim/nasim-240p/index.m3u8?uid=73735-1634850266.292-2.205.127.38-35
 #EXTINF:-1, Shabake_namayesh
-https://glwizhstb48.glwiz.com/IRIBNamayesh_HD/IRIBNamayesh_High.m3u8?user=sgls76551&session=7568abdde8e6185e88a408f6fa4ecfc1a65d38154cc1cde0758272c3a7091ba686f59fc7bb03077a2954b840755761c2&hlsid=HTTP_ID_559142&group_id=76551&starttime=20211008T180659.495915
+https://sdw.telewebion.com/live/namayesh/namayesh-240p/index.m3u8?uid=73735-1634850235.619-2.205.127.38-38
+#EXTINF:-1, Shabake_pooya
+https://sdw.telewebion.com/live/pooya/pooya-240p/index.m3u8?uid=73735-1634849872.218-2.205.127.38-35
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="News",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
