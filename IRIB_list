@@ -1,25 +1,23 @@
 #EXTM3U
-#EXTINF:-1, Shabake3
-https://sdw.telewebion.com/live/tv3/tv3-720p/index.m3u8?uid=7015-1634330394.394-2.205.131.136-467?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgODozOTo1MiBQTSZoYXNoX3ZhbHVlPU14VUhWd0ZnaXhwcTdXb0hIcTdVT2c9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:-1, Shabake1
-https://sdw.telewebion.com/live/tv1/tv1_dvr-240p/index.m3u8?uid=5849-1634330966.287-2.205.131.136-521?wmsAuthSign=a7061525957c7d0be92ed30425831506&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgODo0NjozNiBQTSZoYXNoX3ZhbHVlPXhGREo2WVdLYTJTSy9rYXVRWmhmSFE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+https://glwizhstb59.glwiz.com/IRIBChannel1_HD/IRIBChannel1_High.m3u8?user=sgls76551&session=9b8e7cedd4b325bc1db72cef76b77fc89e97958f76676a0a758272c3a7091ba686f59fc7bb03077a2954b840755761c2&hlsid=HTTP_ID_262517&group_id=76551&starttime=20211015T163511.055569#EXTINF:-1, Shabake2
 #EXTINF:-1, Shabake2
-https://sdw.telewebion.com/live/tv2/tv2_dvr-240p/index.m3u8?uid=5849-1634331050.992-2.205.131.136-182?wmsAuthSign=703e9d140926b71e1ce62c952f794cb0&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgODo1MDo1MCBQTSZoYXNoX3ZhbHVlPVhabmFSOEFjOGFqRmZ3U3M5aVpFL1E9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+https://glwizhstb47.glwiz.com/IRIBChannel2_HD/IRIBChannel2_High.m3u8?user=sgls76551&session=0b0a12c0256a4be83ea9971fefdda437fe1d6e82d17e1cfb758272c3a7091ba686f59fc7bb03077a2954b840755761c2&hlsid=HTTP_ID_785&group_id=76551&starttime=20211020T052657.541042#EXTINF:-1, Shabake4
+#EXTINF:-1, Shabake3
+https://live.farsiland.com/tv3-1k/tv3-1k.m3u8
 #EXTINF:-1, Shabake4
-https://sdw.telewebion.com/live/tv4/tv4_dvr-240p/index.m3u8?uid=5849-1634331743.859-2.205.131.136-184?wmsAuthSign=c6b16386c0f50f49a2f468766729b5d3&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgODo1ODo1OCBQTSZoYXNoX3ZhbHVlPW1BNDBHQ2xZbUpmcjZYVXB3MFk3ZGc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+https://glwizhstb39.glwiz.com/IRIBChannel4_HD/IRIBChannel4_High.m3u8?user=sgls76551&session=f884bd70babef16d5a752b03a96ff6a456dc6d47571fbc16758272c3a7091ba686f59fc7bb03077a2954b840755761c2&hlsid=HTTP_ID_16&group_id=76551&starttime=20211021T192513.103355
 #EXTINF:-1, Shabake5
-https://sdw.telewebion.com/live/tehran/tehran_dvr-576p/index.m3u8?uid=5849-1634331849.598-2.205.131.136-184?wmsAuthSign=58a8a544d1ed311e03111c2fec1fbe41&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgODo1OTo1NCBQTSZoYXNoX3ZhbHVlPW1UUUorUWVtOEkxMGdMYTZxM2pBTlE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:-1, Shabake_pooya
-https://sdw.telewebion.com/live/pooya/pooya_dvr-240p/index.m3u8?uid=5849-1634331933.184-2.205.131.136-178?wmsAuthSign=6110dc5178f0ef4e3143ef66a8d18c14&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzE1LzIwMjEgOTo1OjMyIFBNJmhhc2hfdmFsdWU9dCtCcG8zNUdTenphcTRMblpvYU1tUT09JnZhbGlkbWludXRlcz02MDAw
+https://glwizhstb59.glwiz.com/IRIBChannel5_HD/IRIBChannel5_High.m3u8?user=sgls76551&session=318185adec976ffd5643d455ad0f30c22c03dee122630dc7758272c3a7091ba686f59fc7bb03077a2954b840755761c2&hlsid=HTTP_ID_262517&group_id=76551&starttime=20211015T163511.089580#EXTINF:-1, Shabake_pooya
+#EXTINF:-1, Shabake_khabar
+https://glwizhstb52.glwiz.com/IRINN_HD/IRINN_High.m3u8?user=sgls76551&session=325290bc00d8126c2845fefebc6410c5321b076f65dce2c72d6e33d15071d257b57224c84339d013&hlsid=HTTP_ID_454251&group_id=76551&starttime=20211008T180701.893302#EXTINF:-1, Shabake_Ghoran
+#EXTINF:-1, Shabake_Ghoran
+https://glwizhstb39.glwiz.com/IRIBQuran_HD/IRIBQuran_High.m3u8?user=sgls76551&session=149ea5847d552ac4b1eb0a280dff2f0eae6b86998d88b976c4d322141ad947a3c0da100fa126c465&hlsid=HTTP_ID_16&group_id=76551&starttime=20211021T192513.071345
 #EXTINF:-1, Shabake_varzesh
 https://live.farsiland.com/varzesh-1k/varzesh-1k.m3u8
-#EXTINF:-1, Shabake_3
-https://live.farsiland.com/tv3-1k/tv3-1k.m3u8
 #EXTINF:-1, Shabake_nasim
-https://sdm.telewebion.com/live/nasim/nasim_dvr-720p/index.m3u8?uid=9779-1634332944.105-2.205.131.136-39
-#EXTINF:-1, Shabake_iFilm
-https://sdm.telewebion.com/live/ifilm/ifilm_dvr-720p/index.m3u8?uid=9779-1634333025.698-2.205.131.136-40
-#EXTINF:-1, Shabake_khabar
-https://s-cloud.irib.ir/securelive3/irinn/720.m3u8?s=Ro2vNpbK1c6MJejANWuGjQ&t=1634343271
+https://glwizhstb40.glwiz.com/IRIBNasim_HD/IRIBNasim_High.m3u8?user=sgls76551&session=aa3ea65a3b2378a8fb0150471923b7c229607636c5998f82c4d322141ad947a3c0da100fa126c465&hlsid=HTTP_ID_31&group_id=76551&starttime=20211021T081722.806659#EXTINF:-1, Shabake_iFilm
+#EXTINF:-1, Shabake_namayesh
+https://glwizhstb48.glwiz.com/IRIBNamayesh_HD/IRIBNamayesh_High.m3u8?user=sgls76551&session=7568abdde8e6185e88a408f6fa4ecfc1a65d38154cc1cde0758272c3a7091ba686f59fc7bb03077a2954b840755761c2&hlsid=HTTP_ID_559142&group_id=76551&starttime=20211008T180659.495915
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="News",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
