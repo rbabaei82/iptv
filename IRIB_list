@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Shabake1
-https://sdw.telewebion.com/live/tv1/tv1-240p/index.m3u8?uid=73735
+https://f2-cloud.irib.ir/twb/live/tv1/tv1_dvr-720p/index.m3u8
 #EXTINF:-1, Shabake2
 https://sdw.telewebion.com/live/tv2/tv2-240p/index.m3u8?uid=73735-1634850101.813-2.205.127.38-34
 #EXTINF:-1, Shabake3
