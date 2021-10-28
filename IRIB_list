@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Shabake1
-https://f2-cloud.irib.ir/twb/live/tv1/tv1_dvr-720p/index.m3u8
+https://sdw.telewebion.com/live/tv1/tv1_dvr-480p/index.m3u8?_HLS_skip=v2
 #EXTINF:-1, Shabake2
-https://sdw.telewebion.com/live/tv2/tv2-240p/index.m3u8?uid=73735-1634850101.813-2.205.127.38-34
+https://sdw.telewebion.com/live/tv2/tv2_dvr-240p/index.m3u8?_HLS_skip=v2
 #EXTINF:-1, Shabake3
-https://live.farsiland.com/tv3-1k/tv3-1k.m3u8
+https://sdw.telewebion.com/live/tv3/tv3_dvr-480p/index.m3u8?_HLS_skip=v2
 #EXTINF:-1, Shabake4
 https://sdw.telewebion.com/live/tv4/tv4-240p/index.m3u8?uid=73735-1634850146.707-2.205.127.38-34
 #EXTINF:-1, Shabake5
@@ -12,14 +12,12 @@ https://sdw.telewebion.com/live/tehran/tehran-240p/index.m3u8?uid=73735-16348501
 #EXTINF:-1, Shabake_khabar
 https://sdw.telewebion.com/live/irinn/irinn-240p/index.m3u8?uid=73735-1634850201.182-2.205.127.38-35
 #EXTINF:-1, Shabake_Ghoran
-https://sdw.telewebion.com/live/quran/quran-240p/index.m3u8?uid=73735-1634850306.292-2.205.127.38-36
+https://sdw.telewebion.com/live/quran/quran_dvr-240p/index.m3u8?_HLS_skip=v2
 #EXTINF:-1, Shabake_varzesh
-https://live.farsiland.com/varzesh-1k/varzesh-1k.m3u8
+https://sdw.telewebion.com/live/varzesh/varzesh_dvr-480p/index.m3u8?_HLS_skip=v2
 #EXTINF:-1, Shabake_nasim
 https://sdw.telewebion.com/live/nasim/nasim-240p/index.m3u8?uid=73735-1634850266.292-2.205.127.38-35
 #EXTINF:-1, Shabake_namayesh
 https://sdw.telewebion.com/live/namayesh/namayesh-240p/index.m3u8?uid=73735-1634850235.619-2.205.127.38-38
 #EXTINF:-1, Shabake_pooya
 https://sdw.telewebion.com/live/pooya/pooya-240p/index.m3u8?uid=73735-1634849872.218-2.205.127.38-35
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="News",VOA Persian
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
